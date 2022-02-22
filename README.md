@@ -4,8 +4,8 @@
 
 ## tl;dr
 
-Intravisor deployes programs, runtimes, LibOSs into its address space and uses CHERI capabilitites for isolation and sharing.
-[More information about motivation and design](https://fosdem.org/2022/schedule/event/tee_intravisor/)
+Intravisor deploys programs, runtimes, and LibOSs into its address space and uses CHERI capabilitites for isolation and sharing.
+[More information about motivation and design](https://fosdem.org/2022/schedule/event/tee_intravisor/).
 
 ## Building
 
